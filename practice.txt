@@ -1,2 +1,3 @@
 
-Hello this is practice of git. Today i have learen basics
+Hello this is practice of git. Today i have learen basic
+This is the first commmit that i am going to made in this repo.
